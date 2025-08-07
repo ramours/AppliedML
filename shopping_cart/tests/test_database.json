@@ -1,0 +1,14 @@
+{
+    "Items": {
+        "ZSHTWJ": {
+            "name": "apple",
+            "type": "fruit",
+            "price": 2.0
+        },
+        "WIHSSF": {
+            "name": "pineapple",
+            "type": "fruit",
+            "price": 2.0
+        }
+    }
+}
